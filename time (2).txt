@@ -1,0 +1,18 @@
+2   with mentor
+45min tr logo and placement
+12:35   title  font color  12:39 12:53 put in the input boxes  1:08
+45min back color math correctly
+
+12:44  2:23
+{4 2/3}
+7:22 worked on changing the colors of borders as well as added the entire second half of the website. still need to make the button for the second half actually do math on the inputed number 8:30
+1 1/2 hrs with mentor
+433   506
+230 - 315 setting up git
+857 - 950 fixing css color format
+552 - 649  adding purple box div around first span 
+908 - 954 added shadows and second div box and edges to span boxes
+556 - 630   website and color coord.
+550 - 610  button animation
+620 - 707 fixing formating and input through new buttons.
+712 - 723 attempted to create a favicon
